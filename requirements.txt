@@ -1,0 +1,14 @@
+folium
+geopandas
+jupyterlab
+matplotlib
+notebook
+numpy
+pandas==2.2.2
+pyogrio
+python-dotenv
+rasterio
+rioxarray
+scikit-image
+seaborn
+sentinelhub
